@@ -1,13 +1,11 @@
 # main links
 main:
   - title: "Call-for-Papers"
-    url: https://cfp.hack.lu/
-  - title: "CTF"
-    url: /ctf/
+    url: https://pretalx.com/hack-lu-2023/ 
+  - title: "Sponsoring"
+    url: /sponsoring/
   - title: "Code of conduct"
     url: /CoD/
-  - title: "hack.lu 2019"
-    url: https://2019.hack.lu/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
