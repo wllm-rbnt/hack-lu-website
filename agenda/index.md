@@ -17,8 +17,10 @@ Once the call for papers has concluded, we will announce the talks that will be 
 
 # Wednesday 18th October 2023 hack.lu conference and workshops
 
-Once the call for papers has concluded, we will announce the talks that will be presented."
+Once the call for papers has concluded, we will announce the talks that will be presented.
 
 # Thursday 19th October 2023 hack.lu conference and workshops
+
+Once the call for papers has concluded, we will announce the talks that will be presented.                                                                                                                     
 
 
