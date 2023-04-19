@@ -5,7 +5,7 @@ excerpt: "Agenda - Hack.lu 2023"
 ---
 
 
-If you want to submit a talk, a training session or a working at hack.lu or CTI summit, feel free to have a look at our [call for papers](blog/hack.lu-2023-call-for-papers/).
+If you want to submit a talk, a training session or a working at hack.lu or CTI summit, feel free to have a look at our [call for papers](/blog/hack.lu-2023-call-for-papers/).
 
 # Monday 16th October 2023 CTI Summit and Hack.lu training
 
