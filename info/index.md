@@ -37,24 +37,12 @@ To go to the Parc Hotel from the Train station and back, have a look at the foll
 * [Luxembourg, Gare Centrale to Dommeldange, Dauschbuer](/images/TrainStation-Conference.pdf)
 * [Dommeldange, Dauschbuer to Luxembourg, Gare Centrale](/images/Conference-TrainStation.pdf)
 
-
-To go to Eurohotel from the Train station and back, have a look at the following timetables:
-
-* [Luxembourg, Gare Centrale to Gonderange, Am Duerf](/images/TrainStation-Eurohotel.pdf)
-* [Gonderange, Op der Breck to Luxembourg, Gare Centrale](/images/Eurohotel-TrainStation.pdf)
-
-
-To go to Eurohotel from the Parc Hotel and back, have a look at the following timetables:
-
-* [Dommeldange, Dauschbuer to Gonderange, Am Duerf](/images/TrainStation-Eurohotel.pdf)
-* [Gonderange, Op der Breck to Dommeldange, Dauschbuer](/images/Eurohotel-TrainStation.pdf)
-
 In general, it is highly recommended to use the app on your phone:
 
 * [Android](https://play.google.com/store/apps/details?id=de.hafas.android.cdt&hl=en)
 * [IPhone](https://itunes.apple.com/us/app/mobiliteit.lu/id434829995?mt=8)
 
-Public transport are **free** in Luxembourg, so need to buy tickets.
+Public transport are **free** in Luxembourg, no need to buy tickets.
 
 # Contact
 
