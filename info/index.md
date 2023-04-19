@@ -5,6 +5,10 @@ excerpt: "Practical information - Hack.lu 2023"
 modified: 2023-04-18T19:44:38.564948-04:00
 ---
 
+## Registration 
+
+Ticket registration will open soon.
+
 ## What's included?
 
 * The registration includes access to the whole conference:
@@ -16,7 +20,7 @@ modified: 2023-04-18T19:44:38.564948-04:00
 * The coffee breaks and
 * The yearly official t-shirt.
 
-## Venue
+## Venue and hotel booking
 
 The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue is the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
 
