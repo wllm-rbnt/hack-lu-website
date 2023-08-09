@@ -22,6 +22,8 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 
 All sponsoring prices mentioned are excluding VAT.
 
+By sponsoring hack.lu, your logo will be featured on the website of the [CYBERSECURITY Week Luxembourg's campaign](https://cswl.lu/) as well as you will automatically benefit from visibility at the [CSWL Gala & Awards Night](https://cswl.lu/gala) (happening on 19 October 2023 at Kinepolis Kirchberg Luxembourg). Your logo will be displayed on the Sponsors Wall and added to all communications related to the Gala. You will also receive 2 entry tickets to the Gala (which is an event by invitation only).
+
 # Contact
 
 Contact us at info(AT)hack(DOT)lu if you want to sponsor [hack.lu](https://hack.lu)
