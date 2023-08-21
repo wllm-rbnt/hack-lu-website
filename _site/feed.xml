@@ -1,19 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-10-22T20:45:40+02:00</updated><id>/</id><title type="html">hack.lu 2020</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 16th edition (covid edition) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Call for papers is now open for hack.lu 2020</title><link href="/blog/hack.lu-2020-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2020" /><published>2020-05-01T21:39:55+02:00</published><updated>2020-05-01T21:39:55+02:00</updated><id>/blog/hack.lu-2020-call-for-papers</id><content type="html" xml:base="/blog/hack.lu-2020-call-for-papers/">&lt;h1 id=&quot;hack-lu-2020-cfp&quot;&gt;Hack lu 2020 CfP&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-21T11:15:24+02:00</updated><id>/</id><title type="html">hack.lu 2023</title><subtitle>Hack.lu (and CTI summit) is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 17th edition (16th -&gt; 19th October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Call for papers is now open for hack.lu 2023</title><link href="/blog/hack.lu-2023-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2023" /><published>2023-04-17T21:39:55+02:00</published><updated>2023-04-17T21:39:55+02:00</updated><id>/blog/hack.lu-2023-call-for-papers</id><content type="html" xml:base="/blog/hack.lu-2023-call-for-papers/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;Submit a proposal, get published in a book&lt;/p&gt;
+&lt;p&gt;Hack.lu is an annual conference held in Luxembourg, focused on topics related to computer security, cryptography, privacy, and hacking. Since its inception in 2005, Hack.lu has been bringing together experts from all around the world to discuss the latest trends, techniques, and challenges in the field of cybersecurity.&lt;/p&gt;
 
-&lt;p&gt;Due to the current situation, and as it is extremely unlikely there will be a vaccine, or a cure, to coronavirus before 2021, we decided to come with another plan for the conference.&lt;/p&gt;
+&lt;p&gt;This year, the two conferences will take place from October 16th to 19th at the Parc Hotel Alvisse in Luxembourg. Hack.lu 2023, from October 18th to 19th, will feature a diverse range of talks and workshops, covering topics such as cybercrime, malware analysis, network security, reverse engineering, and more. You’ll also have the opportunity to network with like-minded professionals, connect with industry leaders, and learn about the latest security tools and technologies.&lt;/p&gt;
 
-&lt;p&gt;By October, if you’re into watching videos of conference talks, you will have seen dozens of them, and we bet that you’ll be over it.&lt;/p&gt;
+&lt;p&gt;In addition to Hack.lu, we are also proud to present the CTI-Summit, a sister event focused on Cyber Threat Intelligence. The CTI-Summit will take place from October 16th to 17th, the days before Hack.lu, and will provide a platform for experts to discuss the latest trends and developments in the world of threat intelligence.&lt;/p&gt;
 
-&lt;p&gt;Let us explain what we have in mind, but first, some context: even if there are many infosec conferences every year, the research topics are too often one-shot efforts, with almost no follow up on the long term. One of the reasons is that we’re pretty bad at keeping track of it in the community. In the industry, research papers are pretty much the exception, and when there is one, it tends to be dry. It is often also hard to find them behind paywalls, and to use them as reference.&lt;/p&gt;
+&lt;p&gt;We will also have a wide range of trainings and workshops during the four conference days.&lt;/p&gt;
 
-&lt;p&gt;That’s why we decided to do the CfP in a different way this time…&lt;/p&gt;
+&lt;p&gt;At the CTI-Summit, you’ll have the opportunity to learn about the latest techniques and strategies for collecting, analyzing, and sharing threat intelligence. You’ll hear from leading experts in the field, participate in hands-on workshops, and network with peers from around the world.&lt;/p&gt;
 
-&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;/h2&gt;
+&lt;p&gt;We invite you to join us at both Hack.lu and the CTI-Summit and be a part of this unique opportunity to learn from the best and brightest in the cybersecurity industry. Whether you’re a seasoned professional or just starting out, Hack.lu and the CTI-Summit offer something for everyone. Register today and secure your spot at the premier cybersecurity event of the year!&lt;/p&gt;
 
-&lt;p&gt;Topics of interest include, but are not limited to :&lt;/p&gt;
+&lt;h1 id=&quot;cti-summit&quot;&gt;cti-summit&lt;/h1&gt;
 
+&lt;h2 id=&quot;call-for-papers-andor-talks&quot;&gt;Call for papers and/or talks&lt;/h2&gt;
+&lt;p&gt;Cyber and Threat Intelligence Summit 2022 (CTIS) is a 2-day summit gathering all the experts, analysts, users and contributors to cyber and threat intelligence at large. CTIS includes the original MISP summit along with all other practices around threat intelligence. A strong focus will be given on projects bridging intelligence communities together and also open source related project. The conference will be a main track of talks composed of one day for intelligence (models, processes, methodologies, defensive and sharing practices…) and one day for tooling (threat intelligence platform such as MISP, interconnecting tools and processes, producing actionable intelligence… ).&lt;/p&gt;
+
+&lt;h2 id=&quot;date-and-location&quot;&gt;Date and location&lt;/h2&gt;
+&lt;p&gt;The CTIS conference takes physically place in Luxembourg (October 16 - 17 2023) at the 
+Parc Hotel Alvisse, 120 Route d’Echternach, L-1453 Luxembourg
+(Long : 49.6399337, Lat : 6.1517228)&lt;/p&gt;
+
+&lt;p&gt;The format of the talks during CTIS are composed of 20-minutes maximum with a 10-minutes Q&amp;amp;A session. The goal is foster collaboration and live discussions. The sessions will be video recorded except if the presenter doesn’t accept.
+Complementary papers, article and presentation are highly encouraged for participants who are willing to have more insight about the presentation given.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics-of-interest-include-but-are-not-limited-to&quot;&gt;Topics of interest include, but are not limited to:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open source tooling used in threat intelligence including new tools or development of existing tools&lt;/li&gt;
+  &lt;li&gt;Threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Successes and failures in creating threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Use of open source tools (such as MISP) into SOC, CSIRT or any security organisation or intelligence community to support threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Interoperability between threat intelligence tools (open source and proprietary)&lt;/li&gt;
+  &lt;li&gt;Improving and evaluating quality of threat intelligence at large&lt;/li&gt;
+  &lt;li&gt;Share lessons learnt in the intelligence domains including analysis processes, analytical methods and/or techniques&lt;/li&gt;
+  &lt;li&gt;Lessons and challenges while performing intelligence analysis&lt;/li&gt;
+  &lt;li&gt;Successes and failures in data modelling for intelligence&lt;/li&gt;
+  &lt;li&gt;Share experiences in information and intelligence sharing including building communities, tooling, social interactions&lt;/li&gt;
+  &lt;li&gt;Improving skills in intelligence domain such as threat analysis, collection and dissemination&lt;/li&gt;
+  &lt;li&gt;Integrating OSINT, HUMINT, *INT into threat intelligence processes
+The above list of topics is not exhaustive and other related topics are welcomed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hacklu&quot;&gt;hack.lu&lt;/h2&gt;
+&lt;p&gt;The purpose of the hack.lu convention is to give an open and free playground where people can discuss the implication of new technologies in society. hack.lu is a balanced mix convention where technical and non-technical people can meet each others and share freely all kind of information. The convention will be held in the Grand-Duchy of Luxembourg in October (18-19.10.2023). The most significant new discoveries about computer network attacks and defences, open-source security solutions, and pragmatic real world security experience will be presented in a three days series of informative tutorials.&lt;/p&gt;
+
+&lt;p&gt;We would like to invite you to to submit papers, lightning talk, and workshops proposals for selection by the hack.lu technical review committee.&lt;/p&gt;
+
+&lt;h3 id=&quot;topics-of-interest-include-but-are-not-limited-to-1&quot;&gt;Topics of interest include, but are not limited to:&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Software Engineering and Security&lt;/li&gt;
   &lt;li&gt;Social Engineering&lt;/li&gt;
@@ -40,17 +75,28 @@
   &lt;li&gt;Threats Exchange and Sharing&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;publication-and-rights&quot;&gt;Publication and rights&lt;/h2&gt;
+&lt;h1 id=&quot;general&quot;&gt;General&lt;/h1&gt;
+&lt;h2 id=&quot;speakers-privileges&quot;&gt;Speakers’ Privileges&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;For the selected talks/presentations/papers, authors will get a free access to the conference.&lt;/li&gt;
+  &lt;li&gt;One speaker per talk/workshop&lt;/li&gt;
+  &lt;li&gt;Accommodation will be provided (up to 4 nights during the conference)&lt;/li&gt;
+  &lt;li&gt;Lunch, beverages, and more during the all days of the conference&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Authors keep the  full rights on their publication/papers  but give an
-unrestricted  right  to  redistribute  their papers  for  the  hack.lu
-convention and its related electronic/paper publication.&lt;/p&gt;
+&lt;h2 id=&quot;language&quot;&gt;Language&lt;/h2&gt;
+&lt;p&gt;The language of the conference is English.&lt;/p&gt;
+
+&lt;h2 id=&quot;publication-and-rights&quot;&gt;Publication and rights&lt;/h2&gt;
+&lt;p&gt;Authors keep the full rights on their publication/papers but give an unrestricted right to redistribute their papers for the hack.lu convention and cti-summit and its related electronic/paper publication.&lt;/p&gt;
 
 &lt;h2 id=&quot;sponsoring&quot;&gt;Sponsoring&lt;/h2&gt;
 
 &lt;p&gt;If  you  want  to  support  the  initiative  and  gain  visibility  by
 sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
 
-&lt;h2 id=&quot;cfp-website&quot;&gt;CfP Website&lt;/h2&gt;
+&lt;p&gt;For more information about &lt;a href=&quot;/sponsoring&quot;&gt;sponsoring options&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://cfp.hack.lu/&quot;&gt;CfP hack.lu 2020 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Hack lu 2020 CfP</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry></feed>
+&lt;h2 id=&quot;cfp-website-submission&quot;&gt;CfP Website Submission&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2023/&quot;&gt;CfP hack.lu and CTI Summit 2023 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry></feed>

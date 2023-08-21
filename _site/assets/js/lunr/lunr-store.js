@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Call for papers is now open for hack.lu 2020",
-        "excerpt":"Hack lu 2020 CfP Submit a proposal, get published in a book Due to the current situation, and as it is extremely unlikely there will be a vaccine, or a cure, to coronavirus before 2021, we decided to come with another plan for the conference. By October, if you’re into...","categories": ["blog"],
+        "title": "Call for papers is now open for hack.lu 2023",
+        "excerpt":"Introduction Hack.lu is an annual conference held in Luxembourg, focused on topics related to computer security, cryptography, privacy, and hacking. Since its inception in 2005, Hack.lu has been bringing together experts from all around the world to discuss the latest trends, techniques, and challenges in the field of cybersecurity. This...","categories": ["blog"],
         "tags": [],
-        "url": "/blog/hack.lu-2020-call-for-papers/",
+        "url": "/blog/hack.lu-2023-call-for-papers/",
         "teaser":null}]

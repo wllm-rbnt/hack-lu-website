@@ -1,13 +1,13 @@
 ---
 layout: splash
-title:  Info
+title:  Info and Registration
 excerpt: "Practical information - Hack.lu 2023"
 modified: 2023-04-18T19:44:38.564948-04:00
 ---
 
 ## Registration 
 
-Ticket registration will open soon.
+{% include registration.html %}
 
 ## What's included?
 
