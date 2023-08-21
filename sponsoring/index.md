@@ -5,7 +5,6 @@ excerpt: "Sponsoring hack.lu 2023"
 modified: 2023-04-01T19:44:38.564948-04:00
 ---
 
-
 # Sponsoring hack.lu 2023 
 
 hack.lu and CTI summit offer a unique opportunity to reach users, organisations and teams working on threat intelligence challenges. Through sponsoring the conference, you help the members of the threat intelligence community to work together, exchange idea, improve capabilities and improve the field.
@@ -30,3 +29,8 @@ Contact us at info(AT)hack(DOT)lu if you want to sponsor [hack.lu](https://hack.
 
 We are open to any specific partnership proposals as well. Do not hesitate to get in touch for any inquiries.
 
+# Sponsors 
+
+<a href="https://meco.gouvernement.lu/"> <img src="/images/logos/GOUV_MECO.jpg" /></a>
+<a href="https://hacknowledge.com/"> <img src="/images/logos/hacknowledge.png" style="background-color: black; padding: 10px;"/></a>
+<a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a>
