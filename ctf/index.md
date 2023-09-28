@@ -35,9 +35,9 @@ The Capture The Flag (CTF) competition is held prior to the conference, enabling
 - Duration: 48 hours
 - Format: Jeopardy
 - Location: online
-- URL: https://flu.xxx
-- Discord: https://discord.gg/QGKyWSnYvq
-- CTFtime: https://ctftime.org/event/1921
-- Twitter: https://twitter.com/fluxfingers
+- URL: [https://flu.xxx](https://flu.xxx)
+- Discord: [https://discord.gg/QGKyWSnYvq](https://discord.gg/QGKyWSnYvq)
+- CTFtime: [https://ctftime.org/event/1921](https://ctftime.org/event/1921)
+- Twitter: [https://twitter.com/fluxfingers](https://twitter.com/fluxfingers)
 - Prizes: TBA
 
