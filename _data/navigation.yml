@@ -10,6 +10,8 @@ main:
     url: /info/
   - title: "Code of conduct"
     url: /CoD/
+  - title: "CTF"
+    url: /ctf/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

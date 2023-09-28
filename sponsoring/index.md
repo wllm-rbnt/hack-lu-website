@@ -32,5 +32,10 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 # Sponsors 
 
 <a href="https://meco.gouvernement.lu/"> <img src="/images/logos/GOUV_MECO.jpg" /></a>
+
+<a href="https://www.corelight.com/">_<img src="/images/logos/corelight.png" /></a>
+
 <a href="https://hacknowledge.com/"> <img src="/images/logos/hacknowledge.png" style="background-color: black; padding: 10px;"/></a>
+
 <a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a>
+
