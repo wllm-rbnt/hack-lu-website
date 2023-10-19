@@ -32,10 +32,10 @@ We've negotiated a special rate with the hotel the conference takes place. You c
 
 ## Public transit
 
-To go to the Parc Hotel from the Train station and back, have a look at the following timetables:
+To go to the Parc Hotel from the Train station and back, have a look at the timetables from [mobiliteit.lu](https://mobiliteit.lu)
 
-* [Luxembourg, Gare Centrale to Dommeldange, Dauschbuer](/images/TrainStation-Conference.pdf)
-* [Dommeldange, Dauschbuer to Luxembourg, Gare Centrale](/images/Conference-TrainStation.pdf)
+* The next bus station is called Dommeldange, Dauschbuer 
+* The main train station is called Luxembourg, Gare Centrale
 
 In general, it is highly recommended to use the app on your phone:
 
