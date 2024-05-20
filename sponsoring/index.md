@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: Sponsoring hack.lu 2023
-excerpt: "Sponsoring hack.lu 2023"
-modified: 2023-04-01T19:44:38.564948-04:00
+title: Sponsoring hack.lu 2024
+excerpt: "Sponsoring hack.lu 2024"
+modified: 2024-04-01T19:44:38.564948-04:00
 ---
 
-# Sponsoring hack.lu 2023 
+# Sponsoring hack.lu 2024 
 
-hack.lu and CTI summit offer a unique opportunity to reach users, organisations and teams working on threat intelligence challenges. Through sponsoring the conference, you help the members of the threat intelligence community to work together, exchange idea, improve capabilities and improve the field.
+hack.lu offers a unique opportunity to reach users, organisations and teams working on information security, in SOCs, in CERTs, and also threat intelligence challenges. Through sponsoring the conference, you help the members of the information security community to work together, exchange idea, improve capabilities and improve the field.
 
 Your sponsorship of the conference can also provide immediate, concrete benefits to you and your organization.
 
@@ -21,21 +21,9 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 
 All sponsoring prices mentioned are excluding VAT.
 
-By sponsoring hack.lu, your logo will be featured on the website of the [CYBERSECURITY Week Luxembourg's campaign](https://cswl.lu/) as well as you will automatically benefit from visibility at the [CSWL Gala & Awards Night](https://cswl.lu/gala) (happening on 19 October 2023 at Kinepolis Kirchberg Luxembourg). Your logo will be displayed on the Sponsors Wall and added to all communications related to the Gala. You will also receive 2 entry tickets to the Gala (which is an event by invitation only).
-
 # Contact
 
 Contact us at info(AT)hack(DOT)lu if you want to sponsor [hack.lu](https://hack.lu)
 
 We are open to any specific partnership proposals as well. Do not hesitate to get in touch for any inquiries.
-
-# Sponsors 
-
-<a href="https://meco.gouvernement.lu/"> <img src="/images/logos/GOUV_MECO.jpg" /></a>
-
-<a href="https://www.corelight.com/">_<img src="/images/logos/corelight.png" /></a>
-
-<a href="https://hacknowledge.com/"> <img src="/images/logos/hacknowledge.png" style="background-color: black; padding: 10px;"/></a>
-
-<a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a>
 

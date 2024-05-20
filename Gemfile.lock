@@ -106,6 +106,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-linux
@@ -115,6 +116,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   minimal-mistakes-jekyll!
   rake
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.12
