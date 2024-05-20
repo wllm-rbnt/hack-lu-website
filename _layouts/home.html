@@ -6,6 +6,7 @@ layout: splash
    {{ content }}
 </div>
 
+<img src="/images/logo-small.png"></a>
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent News" }}</h3>
 
 {% for post in paginator.posts %}
@@ -13,7 +14,6 @@ layout: splash
 {% endfor %}
 
 {% include paginator.html %}
-
 
 <div>
   <span style="width:40%; display:inline-block;">
