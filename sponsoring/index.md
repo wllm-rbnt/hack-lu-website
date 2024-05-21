@@ -13,9 +13,9 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 
 ## Hack.lu Sponsoring Packages
 
-- Ebony Sponsor is 25000 Euro which includes CTI Summit and hack.lu sponsoring together.
-- Falun Sponsor is 7500 Euro or more. This incorporates big logos on printed matters and the [website](https://hack.lu), 5 free entrances to the conference, stand in the hallway.
-- Cardinal Sponsor is 5000 Euro. Medium logo on printed matters and the website. 3 free entrances are included and small stand in the hallway.
+- Ebony Sponsor is 25000 Euro which includes a complete sponsoring package including 10 free entrances to the conference, stand/booth in the hallway and roll-up in the main room.
+- Falun Sponsor is 7500 Euro or more. This incorporates big logos on printed matters and the [website](https://hack.lu), 5 free entrances to the conference, stand/booth in the hallway.
+- Cardinal Sponsor is 5000 Euro. Medium logo on printed matters and the website. 3 free entrances are included and small stand/booth in the hallway.
 - Scarlet Sponsor is 2500 Euro. Medium logo on the website. 1 free entrance.
 - Social Event Sponsor is 10000 Euro. The event will be in the evening of the first day. It includes the same perks as the Falun package, but with specific visibility during the well-visited social event.
 
