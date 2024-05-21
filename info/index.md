@@ -1,8 +1,8 @@
 ---
 layout: splash
 title:  Info and Registration
-excerpt: "Practical information - Hack.lu 2023"
-modified: 2023-04-18T19:44:38.564948-04:00
+excerpt: "Practical information - Hack.lu 2024"
+modified: 2024-04-18T19:44:38.564948-04:00
 ---
 
 ## Registration 
@@ -12,7 +12,7 @@ modified: 2023-04-18T19:44:38.564948-04:00
 ## What's included?
 
 * The registration includes access to the whole conference:
-   * Plenary session CTI Summit and hack.lu
+   * Plenary session hack.lu (all the tracks)
    * Workshops
    * Trainings 
    * participation to the CTF price contest (you can also play the CTF online for free during the conference)
