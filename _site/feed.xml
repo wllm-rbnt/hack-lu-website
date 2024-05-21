@@ -1,1 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-20T18:11:46+02:00</updated><id>/</id><title type="html">hack.lu 2024</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It&apos;s the 18th edition (22nd -&gt; 25th October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-21T10:53:50+02:00</updated><id>/</id><title type="html">hack.lu 2024</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It&apos;s the 18th edition (22nd -&gt; 25th October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Call for papers is now open for hack.lu 2024</title><link href="/blog/hack.lu-2024-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2024" /><published>2024-05-20T11:39:55+02:00</published><updated>2024-05-20T11:39:55+02:00</updated><id>/blog/hack.lu-2024-call-for-papers</id><content type="html" xml:base="/blog/hack.lu-2024-call-for-papers/">&lt;h1 id=&quot;hacklu-2024-call-for-papers-including-cti-summit&quot;&gt;hack.lu 2024 Call for Papers (including cti-summit)&lt;/h1&gt;
+
+&lt;p&gt;The purpose of the hack.lu convention is to provide an open and free playground where people can discuss the implications of new technologies in society. hack.lu is a balanced mix convention where technical and non-technical people can meet and share all kinds of information freely. The convention will be held in the Grand-Duchy of Luxembourg in October (22-25.10.2024). The most significant new discoveries about computer network attacks and defenses, open-source security solutions, and pragmatic real-world security experiences will be presented in a three-day series of informative tutorials.&lt;/p&gt;
+
+&lt;p&gt;Hack.lu includes the Cyber and Threat Intelligence Summit gathering all the experts, analysts, users, and contributors to cyber and threat intelligence at large. A strong focus will be given to projects bridging intelligence communities together and also open-source related projects.&lt;/p&gt;
+
+&lt;p&gt;We invite you to submit papers, lightning talks, and workshop proposals for selection by the hack.lu technical review committee.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics-of-interest&quot;&gt;Topics of Interest&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Software Engineering and Security&lt;/li&gt;
+  &lt;li&gt;Social Engineering&lt;/li&gt;
+  &lt;li&gt;Honeypots/Honeynets&lt;/li&gt;
+  &lt;li&gt;Spyware, Phishing, and Botnets (Distributed attacks)&lt;/li&gt;
+  &lt;li&gt;Newly discovered vulnerabilities in software and hardware&lt;/li&gt;
+  &lt;li&gt;Electronic/Digital Privacy&lt;/li&gt;
+  &lt;li&gt;Wireless Network and Security&lt;/li&gt;
+  &lt;li&gt;Attacks on Information Systems and/or Digital Information Storage&lt;/li&gt;
+  &lt;li&gt;Electronic Voting&lt;/li&gt;
+  &lt;li&gt;Free Software and Security&lt;/li&gt;
+  &lt;li&gt;Assessment of Computer, Electronic Devices, and Information Systems&lt;/li&gt;
+  &lt;li&gt;Standards for Information Security&lt;/li&gt;
+  &lt;li&gt;Legal and Social Aspect of Information Security&lt;/li&gt;
+  &lt;li&gt;Security in Information Retrieval&lt;/li&gt;
+  &lt;li&gt;Network Security&lt;/li&gt;
+  &lt;li&gt;Malware Analysis and Reversing&lt;/li&gt;
+  &lt;li&gt;Forensics and Anti-Forensics&lt;/li&gt;
+  &lt;li&gt;Offensive (and counter-offensive) Information Technology&lt;/li&gt;
+  &lt;li&gt;Mobile Communications Security and Vulnerabilities&lt;/li&gt;
+  &lt;li&gt;CSIRTs, Incident Analysis and Response&lt;/li&gt;
+  &lt;li&gt;Information Security and Data Mining&lt;/li&gt;
+  &lt;li&gt;Threats Exchange and Sharing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cti-related-topics&quot;&gt;CTI Related Topics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Open source tooling used in threat intelligence including new tools or development of existing tools&lt;/li&gt;
+  &lt;li&gt;Threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Successes and failures in creating threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Use of open-source tools (such as MISP) into SOC, CSIRT, or any security organization or intelligence community to support threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Interoperability between threat intelligence tools (open source and proprietary)&lt;/li&gt;
+  &lt;li&gt;Improving and evaluating the quality of threat intelligence at large&lt;/li&gt;
+  &lt;li&gt;Share lessons learned in the intelligence domains including analysis processes, analytical methods, and/or techniques&lt;/li&gt;
+  &lt;li&gt;Lessons and challenges while performing intelligence analysis&lt;/li&gt;
+  &lt;li&gt;Successes and failures in data modeling for intelligence&lt;/li&gt;
+  &lt;li&gt;Share experiences in information and intelligence sharing including building communities, tooling, social interactions&lt;/li&gt;
+  &lt;li&gt;Improving skills in intelligence domains such as threat analysis, collection, and dissemination&lt;/li&gt;
+  &lt;li&gt;Integrating OSINT, HUMINT, *INT into threat intelligence processes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The above lists of topics are not exhaustive and other related topics are welcome.&lt;/p&gt;
+
+&lt;h2 id=&quot;presentation-format&quot;&gt;Presentation Format&lt;/h2&gt;
+
+&lt;p&gt;The format of the talks during hack.lu is composed of a 20-minute maximum presentation with a 10-minute Q&amp;amp;A session. The goal is to foster collaboration and live discussions. The sessions will be video recorded except if the presenter doesn’t accept. Complementary papers, articles, and presentations are highly encouraged for participants who are willing to have more insight about the presentation given.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-information&quot;&gt;General Information&lt;/h2&gt;
+
+&lt;h3 id=&quot;date-and-location&quot;&gt;Date and Location&lt;/h3&gt;
+
+&lt;p&gt;The hack.lu conference will take place physically in Luxembourg (October 22 - 25, 2024) at the&lt;br /&gt;
+Parc Hotel Alvisse, 120 Route d’Echternach, L-1453 Luxembourg&lt;br /&gt;
+(Long : 49.6399337, Lat : 6.1517228)&lt;/p&gt;
+
+&lt;h3 id=&quot;speakers-privileges&quot;&gt;Speakers’ Privileges&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the selected talks/presentations/papers, authors will get free access to the conference.&lt;/li&gt;
+  &lt;li&gt;One speaker per talk/workshop&lt;/li&gt;
+  &lt;li&gt;Accommodation will be provided (up to 4 nights during the conference)&lt;/li&gt;
+  &lt;li&gt;Lunch, beverages, and more during all days of the conference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;language&quot;&gt;Language&lt;/h3&gt;
+
+&lt;p&gt;The language of the conference is English.&lt;/p&gt;
+
+&lt;h3 id=&quot;publication-and-rights&quot;&gt;Publication and Rights&lt;/h3&gt;
+
+&lt;p&gt;Authors keep the full rights on their publications/papers but give an unrestricted right to redistribute their papers for the hack.lu convention and its related electronic/paper publication.&lt;/p&gt;
+
+&lt;p&gt;You can enter proposals until 2024-08-01 08:00 (UTC), 2 months, 1 week from now.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2024/cfp&quot;&gt;Edit or view your proposals&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://pretalx.com/hack-lu-2024/cfp&quot;&gt;Submit a proposal&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsoring&quot;&gt;Sponsoring&lt;/h2&gt;
+
+&lt;p&gt;If  you  want  to  support  the  initiative  and  gain  visibility  by
+sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
+
+&lt;p&gt;For more information about &lt;a href=&quot;/sponsoring&quot;&gt;sponsoring options&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-website-submission&quot;&gt;CfP Website Submission&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2024/&quot;&gt;CfP hack.lu 2024 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry></feed>
