@@ -2,7 +2,7 @@
 layout: splash
 title:  Info and Registration
 excerpt: "Practical information - Hack.lu 2024"
-modified: 2024-04-18T19:44:38.564948-04:00
+modified: 2024-05-22T19:44:38.564948-04:00
 ---
 
 ## Registration 
@@ -24,7 +24,12 @@ modified: 2024-04-18T19:44:38.564948-04:00
 
 The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue is the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
 
-We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'HACK-10/23'. Please make sure to register your hotel room before September 1st, 2023 in order to be able to benefit from the proposal or to ensure that you will have a room.
+We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'HACKLU-2024'. Please make sure to register your hotel room before September 10th, 2024 in order to be able to benefit from the proposal or to ensure that you will have a room.
+
+By clicking on the [reservation link](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) you will arrive directly on the booking page.
+The guests have please to fill in the arrival and departure date and the special discount code. And click on « Show Availability », without the date and code, your special rates will not be visible!
+
+Rooms can be still booked but only on availability.  These prices are linked to the preferential event rate conditions. Payment is requested on reservation by the hotel.
 
 ### Address of the Venue
 
