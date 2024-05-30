@@ -19,7 +19,7 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 - Scarlet Sponsor is 2500 Euro. Medium logo on the website. 1 free entrance.
 - Social Event Sponsor is 10000 Euro. The event will be in the evening of the first day. It includes the same perks as the Falun package, but with specific visibility during the well-visited social event.
 
-All sponsoring prices mentioned are excluding VAT.
+All sponsoring prices mentioned are excluding VAT. VAT might apply depending of your country.
 
 # Contact
 
