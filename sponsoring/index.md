@@ -21,6 +21,17 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 
 All sponsoring prices mentioned exclude VAT. VAT may apply depending on your country.
 
+### Additional Sponsoring Packages for the Cybersecurity Week Gala and Awards Night
+
+#### Cybersecurity Week Gala and Awards Nights - Only
+
+- Package content: logos on printed matters during the CSWL Gala & Awards Night (24 OCT 2024), digital visibility accross all CSWL/CYBERSECURITY Luxembourg channels (cswl.lu, cybersecurity.lu, CyberAware Newsletter, social media), 6 free entrances to the CSWL Gala & Awards Night (24 OCT 2024) (increased visibility at 2 key information security community events in Luxembourg). The sponsoring package is 5000 Euro.
+
+#### Cybersecurity Week Gala and Awards Nights - in addition to a hack.lu sponsoring package
+
+- Package content: chosen hack.lu sponsor package + CSWL Gala & Awards Night package advantage = increased visibility at 2 key information security community events in Luxembourg. The sponsoring package is 2500 Euro in addition to the hack.lu sponsoring package.
+
+
 # Contact
 
 Contact us at info(AT)hack(DOT)lu if you want to sponsor [hack.lu](https://hack.lu)
