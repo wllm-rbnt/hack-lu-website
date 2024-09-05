@@ -11,6 +11,9 @@
 <loc>/CoD/</loc>
 </url>
 <url>
+<loc>/privacy/</loc>
+</url>
+<url>
 <loc>/cff/</loc>
 </url>
 <url>
@@ -27,9 +30,6 @@
 </url>
 <url>
 <loc>/talks/</loc>
-</url>
-<url>
-<loc>/misp-summit/</loc>
 </url>
 <url>
 <loc>/agenda/</loc>

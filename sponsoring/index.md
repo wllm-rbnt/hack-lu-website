@@ -31,10 +31,15 @@ All sponsoring prices mentioned exclude VAT. VAT may apply depending on your cou
 
 - Package content: chosen hack.lu sponsor package + CSWL Gala & Awards Night package. The sponsoring package is 2500 Euro in addition to the hack.lu sponsoring package.
 
-
 # Contact
 
 Contact us at info(AT)hack(DOT)lu if you want to sponsor [hack.lu](https://hack.lu)
 
 We are open to any specific partnership proposals as well. Do not hesitate to get in touch for any inquiries.
+
+# Sponsors
+
+<a href="https://www.corelight.com/">_<img src="/images/logos/corelight.png" /></a>
+<a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a>
+<a href="https://www.deloitte.lu/">_<img src="/images/logos/deloitte.png" /></a>
 
