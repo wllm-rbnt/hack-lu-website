@@ -39,7 +39,8 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 
 # Sponsors
 
-<a href="https://www.corelight.com/">_<img src="/images/logos/corelight.png" /></a>
-<a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a>
-<a href="https://www.deloitte.lu/">_<img src="/images/logos/deloitte.png" /></a>
-
+<a href="https://www.corelight.com/"><img src="/images/logos/corelight.png" /></a><br /><br />
+<a href="https://www.ncia.nato.int/"><img src="/images/logos/NCI-Agency-Logo-small.jpg" /></a><br /><br />
+<a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a><br /><br />
+<a href="https://www.deloitte.lu/"><img src="/images/logos/deloitte.png" /></a><br /><br />
+<a href="https://cargolux.lu/"><img src="/images/logos/cargolux.png" /></a><nr /><br />
