@@ -48,4 +48,5 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 <a href="https://snt.lu/"><img src="/images/logos/SnT_UL_colour_logo.png"/></a> <br/> <br/>
 <a href="https://www.threatray.com/"><img src="/images/logos/Threaray_Logo.png"></a> <br/> <br/>
 <a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
+<a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
 
