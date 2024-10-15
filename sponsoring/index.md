@@ -39,8 +39,10 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 
 # Sponsors
 
-<a href="https://www.corelight.com/"><img src="/images/logos/corelight.png" /></a><br /><br />
+## Sponsored by
+<a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
 <a href="https://www.ncia.nato.int/"><img src="/images/logos/NCI-Agency-Logo-small.jpg" /></a><br /><br />
+<a href="https://www.corelight.com/"><img src="/images/logos/corelight.png" /></a><br /><br /> 
 <a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a><br /><br />
 <a href="https://www.deloitte.lu/"><img src="/images/logos/deloitte.png" /></a><br /><br />
 <a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" /></a><br/><br/>
@@ -48,7 +50,10 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 <a href="https://snt.lu/"><img src="/images/logos/SnT_UL_colour_logo.png"/></a> <br/> <br/>
 <a href="https://www.threatray.com/"><img src="/images/logos/Threaray_Logo.png"></a> <br/> <br/>
 <a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
-<a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
+      
+## Social Event Sponsor
+<a href="https://wedos.com/"><img src="/images/logos/wedos.png"></a> <br/> <br/>
+
+## Partners
 <a href="https://www.dcaf.ch/"><img src="/images/logos/DCAF.png"></a> <br/> <br/>
 <a href="https://www.giz.de/"><img src="/images/logos/GIZ.png"></a> <br/> <br/>
-
