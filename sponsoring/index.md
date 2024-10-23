@@ -58,3 +58,9 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 ## Partners
 <a href="https://www.dcaf.ch/"><img src="/images/logos/DCAF.png"></a> <br/> <br/>
 <a href="https://www.giz.de/"><img src="/images/logos/GIZ.png"></a> <br/> <br/>
+
+## Internet & Wi-Fi
+<a href="https://www.conostix.com/"><img src="/images/logos/conostix.png"></a> <br/> <br/>
+<a href="https://www.post.lu/"><img src="/images/logos/post.png"></a> <br/> <br/>
+<a href="https://www.kappadata.be"><img src="/images/logos/Kappa_Data.png"></a> <br/> <br/>
+<a href="https://www.ruckusnetworks.com/"><img src="/images/logos/ruckus.png"></a> <br/> <br/>
