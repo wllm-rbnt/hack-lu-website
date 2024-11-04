@@ -1,4 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-09-05T15:42:41+02:00</updated><id>/</id><title type="html">hack.lu 2024</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It&apos;s the 18th edition (22nd -&gt; 25th October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Call for papers is now open for hack.lu 2024</title><link href="/blog/hack.lu-2024-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2024" /><published>2024-05-20T11:39:55+02:00</published><updated>2024-05-20T11:39:55+02:00</updated><id>/blog/hack.lu-2024-call-for-papers</id><content type="html" xml:base="/blog/hack.lu-2024-call-for-papers/">&lt;h1 id=&quot;hacklu-2024-call-for-papers-including-cti-summit&quot;&gt;hack.lu 2024 Call for Papers (including cti-summit)&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-04T09:25:25+01:00</updated><id>/</id><title type="html">hack.lu 2024</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It&apos;s the 18th edition (22nd -&gt; 25th October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights</title><link href="/blog/hack.lu-2024-wraps-up/" rel="alternate" type="text/html" title="hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights" /><published>2024-11-04T05:39:55+01:00</published><updated>2024-11-04T05:39:55+01:00</updated><id>/blog/hack.lu-2024-wraps-up</id><content type="html" xml:base="/blog/hack.lu-2024-wraps-up/">&lt;p&gt;Luxembourg, October 26, 2024 – hack.lu, Europe’s central hub for cybersecurity professionals, enthusiasts, and experts, celebrated its 18th successful edition from October 22-25 in Luxembourg, hosting a packed agenda of workshops, trainings, and talks. With over 500 participants from around the world and 75 expert speakers, this year’s conference once again proved to be an essential event in the cybersecurity calendar.&lt;/p&gt;
+
+&lt;p&gt;Over the course of four days, hack.lu attendees immersed themselves in topics at the forefront of security, intelligence, and privacy. They enjoyed a packed schedule balanced with ample opportunities to connect over coffee breaks, pastries, and thoughtfully prepared lunches. As a priority for hack.lu, exceptional catering played an essential role in keeping energy high and conversations flowing throughout the event. Attendees also actively participated by presenting 26 lightning talks, each allowing speakers to share their experiences in a concise 5-minute format.&lt;/p&gt;
+
+&lt;p&gt;Even before the conference, the renowned &lt;a href=&quot;https://flu.xxx/&quot;&gt;hack.lu CTF&lt;/a&gt; took place, with 608 teams participating in challenges organized and designed by &lt;a href=&quot;https://flu.xxx/info&quot;&gt;FluxFingers&lt;/a&gt;, the CTF team from Ruhr University Bochum (Germany). During the conference, &lt;a href=&quot;https://hacklu.firstseclounge.org/&quot;&gt;hack.lu 2024 challenges&lt;/a&gt; were organized by the &lt;a href=&quot;&quot;&gt;FIRST SecLounge SIG volunteers&lt;/a&gt;, offering participants various levels of challenges to play.&lt;/p&gt;
+
+&lt;p&gt;The conference organizers hosted a speaker’s dinner on the first evening to recognize and celebrate the event’s contributors. On the second day, participants mingled at an independently organized social event, which included fun activities such as PowerPoint karaoke. The third evening featured an invitation to the Cybersecurity Gala, held in collaboration with &lt;a href=&quot;https://cswl.lu/autumn&quot;&gt;Cybersecurity Week Luxembourg&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sascha Rommelfangen, co-organizer of hack.lu, reflects: &lt;em&gt;“We’ve received tremendous positive feedback for this year’s organization. It’s inspiring to see participants join us from across the globe, from Australia to China, Mauritius to the USA. hack.lu is all about fostering connections in a friendly and inclusive setting, and we’re already looking forward to making next year’s event even more memorable.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The talks and videos given during the conference are now publicly available&lt;/strong&gt; on the &lt;a href=&quot;https://2024.hack.lu/agenda/&quot;&gt;hack.lu website&lt;/a&gt; and as a &lt;a href=&quot;https://www.youtube.com/watch?v=sVlLjaTY1pc&amp;amp;list=PLwOU9wiTf8XRYD579lHCXFAdAnRDqcVQu&quot;&gt;YouTube channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With strong support from &lt;a href=&quot;https://2024.hack.lu/sponsoring/&quot;&gt;15 sponsors&lt;/a&gt;, hack.lu 2024 provided a vibrant atmosphere for collaboration and learning. Sponsors and participants alike appreciated the open setting that encouraged interaction and knowledge exchange on the latest cybersecurity challenges and innovations.&lt;/p&gt;
+
+&lt;p&gt;Alexandre Dulaunoy, co-founder and main organizer of hack.lu, sums it up: &lt;em&gt;“hack.lu has always been about creating a space where knowledge flows freely and innovation thrives. This year, we saw remarkable ideas emerge from discussions, workshops, and impromptu conversations over coffee or tea. The diversity of voices – from seasoned experts to emerging talents – made this edition incredibly dynamic. We’re honored to facilitate these connections that not only strengthen our community but also push the boundaries of cybersecurity collaboration on a global scale. We look forward to building and improving on this momentum for hack.lu 2025, continuing to shape a future where security and openness go hand in hand.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As hack.lu 2024 concludes, the organizers are already setting their sights on &lt;strong&gt;hack.lu 2025, scheduled for October 21-24, 2025&lt;/strong&gt;, promising another year of inspiration, innovation, and community for the global cybersecurity landscape. We would also like to extend our heartfelt thanks to all our sponsors, supporters, volunteers, and participants who helped make hack.lu a remarkable conference.&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Hack.lu 2024 - Agenda Published</title><link href="/blog/hack.lu-agenda-published/" rel="alternate" type="text/html" title="Hack.lu 2024 - Agenda Published" /><published>2024-09-24T11:39:55+02:00</published><updated>2024-09-24T11:39:55+02:00</updated><id>/blog/hack.lu-agenda-published</id><content type="html" xml:base="/blog/hack.lu-agenda-published/">&lt;h1 id=&quot;hacklu-2024-a-cant-miss-cybersecurity-event-in-the-heart-of-europe&quot;&gt;Hack.lu 2024: A Can’t-Miss Cybersecurity Event in the Heart of Europe&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://hack.lu/&quot;&gt;hack.lu&lt;/a&gt; 2024 security conference, taking place from October 22nd to 25th in Luxembourg, is shaping up to be an unforgettable event for the cybersecurity community. Whether you’re a seasoned professional, an enthusiast, or someone curious about the field, hack.lu offers an unparalleled opportunity to learn, network, and immerse yourself in the latest trends and challenges in cybersecurity. This year’s agenda is packed with groundbreaking talks, hands-on workshops, and exciting activities like the Capture The Flag (CTF) competition. Here’s a sneak peek at what you can expect.&lt;/p&gt;
+
+&lt;h3 id=&quot;main-track-overview&quot;&gt;Main Track Overview&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://hack.lu/agenda/&quot;&gt;main track at hack.lu&lt;/a&gt; is always a crowd-pleaser, and this year’s lineup promises to be no different. Here is the complete list of talks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;APT28: Following bear tracks back to the cave by Golo&lt;/li&gt;
+  &lt;li&gt;Artemis: how CERT PL improves the security of the Polish internet by Krzysztof Zając&lt;/li&gt;
+  &lt;li&gt;Automating Dark Web CTI Reports with RAG Insight for MISP Sharing by Shing-Li Hung&lt;/li&gt;
+  &lt;li&gt;Back to the failure - Did your physical security really evolved in the last 40 years? by Simon Geusebroek&lt;/li&gt;
+  &lt;li&gt;Blowing up Gas Stations for fun and profit by Pedro Umbelino&lt;/li&gt;
+  &lt;li&gt;CSIRT and the Chocolate Factory by Didier Stevens&lt;/li&gt;
+  &lt;li&gt;Cyber Threats to Advanced Intelligent Connected Vehicle Systems by Shihao Xue, Yuqiao Ning&lt;/li&gt;
+  &lt;li&gt;DFIQ - Codifying digital forensic intelligence by Thomas Chopitea&lt;/li&gt;
+  &lt;li&gt;Decoding Galah: an LLM powered web honeypot by Adel Karimi&lt;/li&gt;
+  &lt;li&gt;Detection And Response for Linux without EDR by Hilko Bengen&lt;/li&gt;
+  &lt;li&gt;Disconnecting games with a single packet: an Unreal untold story by Hugo Bertin&lt;/li&gt;
+  &lt;li&gt;Dredge: An Open Source Framework for Cloud Incident Response by Santi Abastante&lt;/li&gt;
+  &lt;li&gt;Empowering Cybersecurity Outreach and Learning through Collaborative Challenge Building, Sharing, and Execution by Alexandre Dulaunoy, David Durvaux&lt;/li&gt;
+  &lt;li&gt;From 0 to millions: Protecting against AitM phishing at scale by Jacob Torrey&lt;/li&gt;
+  &lt;li&gt;Ghosts’n’gadgets: common buffer overflows that still haunt our networks by Stanislav Dashevskyi&lt;/li&gt;
+  &lt;li&gt;I Need Access: Exploit Password Management Software To Obtain Credential From Memory by Efstratios Chatzoglou&lt;/li&gt;
+  &lt;li&gt;In-Depth Study of Linux Rootkits: Evolution, Detection, and Defense by Stephan Berger&lt;/li&gt;
+  &lt;li&gt;Insights from Modern Botnets by Miguel&lt;/li&gt;
+  &lt;li&gt;Internal Domain Name Collision 2.0 by Philippe Caturegli&lt;/li&gt;
+  &lt;li&gt;IoT hacks humans - unexpected angles of Human Process Compromise by Vladimir Kropotov&lt;/li&gt;
+  &lt;li&gt;Keys to the City: The Dark Trade-Off Between Revenue and Privacy in Monetizing SDKs by Dimitrios Valsamaras&lt;/li&gt;
+  &lt;li&gt;KubeHound: Identifying attack paths in Kubernetes clusters at scale with no hustle by Julien&lt;/li&gt;
+  &lt;li&gt;Lessons Learned from (almost) 8 Years of Sigma Development by Thomas Patzke&lt;/li&gt;
+  &lt;li&gt;Making IOT great again by David Durvaux, Marc Durvaux&lt;/li&gt;
+  &lt;li&gt;Malware and Hunting for Persistence: How Adversaries Exploit Your Windows? by cocomelonc&lt;/li&gt;
+  &lt;li&gt;Mercator - Mapping the information system by Didier Barzin&lt;/li&gt;
+  &lt;li&gt;NeuroCTI - a custom LLM for CTI - benchmarking, successes, failures and lessons learned (updates) by Aaron Kaplan&lt;/li&gt;
+  &lt;li&gt;New features in the Zeek Network Monitor by Christian Kreibich&lt;/li&gt;
+  &lt;li&gt;Nothing to see here! On the awareness of and preparedness and defenses against cloaking malicious web content delivery by Jeroen Pinoy&lt;/li&gt;
+  &lt;li&gt;Predictive Analytics for Adversary Techniques in the MITRE ATT&amp;amp;CK Framework using Rule Mining by Tristan MADANI&lt;/li&gt;
+  &lt;li&gt;Quantum Cybersecurity - Pioneering a Secure Future by Samira Chaychi, Sharif Shahini&lt;/li&gt;
+  &lt;li&gt;Reverse engineering Android apps with ACVTool by Aleksandr Pilgun&lt;/li&gt;
+  &lt;li&gt;Revolutionizing IoC Sharing: MISP, ZMQ and the Power of Smart Workflows &amp;amp; Taxonomies by Mike&lt;/li&gt;
+  &lt;li&gt;SQL Injection Isn’t Dead: Smuggling Queries at the Protocol Level by Paul Gerste&lt;/li&gt;
+  &lt;li&gt;Scam as a Service powered by Telegram by Aurimas Rudinskis&lt;/li&gt;
+  &lt;li&gt;Securing the Stars: Comprehensive Analysis of Modern Satellite Vulnerabilities and Emerging Attack Surfaces by Vic Huang&lt;/li&gt;
+  &lt;li&gt;Sigma Unleashed: A Realistic Implementation by Mathieu LE CLEACH&lt;/li&gt;
+  &lt;li&gt;Spicy — Generating Robust Parsers for Protocols &amp;amp; File Formats by Benjamin Bannier&lt;/li&gt;
+  &lt;li&gt;TODDLERSHARK: Kimsuky’s Hastily Built Variant of BABYSHARK Deployed Using an 1-Day Exploit by George Glass&lt;/li&gt;
+  &lt;li&gt;Tales of the Future Past by Saâd Kadhi&lt;/li&gt;
+  &lt;li&gt;The Gist of Hundreds of Incident Response Cases by Stephan Berger&lt;/li&gt;
+  &lt;li&gt;The Ouroboros of Cybercrime: Witnessing Threat Actors go from Pwn to Pwn’d by Estelle&lt;/li&gt;
+  &lt;li&gt;The Web of cognitive warfare by Jindrich Karasek&lt;/li&gt;
+  &lt;li&gt;The XE Files - Trust No Router by James Atack&lt;/li&gt;
+  &lt;li&gt;The good, the bad, and the ugly: Microsoft Copilot by Michael Bargury, Inbar Raz&lt;/li&gt;
+  &lt;li&gt;Trying Gateway Bugs: Breaking industrial protocol translation devices before the research begins by Claire Vacherot&lt;/li&gt;
+  &lt;li&gt;Understanding file type identifiers &amp;amp; scanners by Ange Albertini&lt;/li&gt;
+  &lt;li&gt;You just got a CTI program funded - now what? by Lukas Vytautas Dagilis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;workshops-to-boost-your-skills&quot;&gt;Workshops to Boost Your Skills&lt;/h3&gt;
+
+&lt;p&gt;In addition to the main track talks, hack.lu 2024 offers a series of &lt;a href=&quot;https://2024.hack.lu/agenda/&quot;&gt;hands-on workshops&lt;/a&gt; designed to deepen your technical skills or learning new techniques:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chrome V8 exploitation training for beginners by hoseok Lee&lt;/li&gt;
+  &lt;li&gt;Cryptography: from zero to dont-shoot-yourself-in-the-foot by Lorenzo Nicolodi&lt;/li&gt;
+  &lt;li&gt;Defeating Encryption By Using Unicorn Engine by Balazs Bucsay&lt;/li&gt;
+  &lt;li&gt;Dissecting the Threat: A Practical Approach to Reverse Engineering Malicious Code by Ankshita Maunthrooa&lt;/li&gt;
+  &lt;li&gt;Exploring Firmwares: Tools and Techniques for (New) Cartographers by Eloïse Brocas&lt;/li&gt;
+  &lt;li&gt;Exploring OpenSSH: Hands-On Workshop for Beginners by William Robinet&lt;/li&gt;
+  &lt;li&gt;From protocol analysis to actionable algorithmic and signature detection with Suricata by Eric Leblond, Peter Manev&lt;/li&gt;
+  &lt;li&gt;Hands-on Kubernetes security with KubeHound (purple teaming) by Julien&lt;/li&gt;
+  &lt;li&gt;Lookyloo, Pandora, and all the bells and whistles to go with them. by Raphaël Vinot&lt;/li&gt;
+  &lt;li&gt;MISP Kickstart by Shanna Daly, James Garratt&lt;/li&gt;
+  &lt;li&gt;Malware Development and Persistence by cocomelonc&lt;/li&gt;
+  &lt;li&gt;NLP deep-dive: Transformers for Text Mining and Text Generation in Cybersecurity by Pauline Bourmeau (Cookie), William Robinet&lt;/li&gt;
+  &lt;li&gt;Open source Intelligence and Command line based BGP Hijacking Detection by Joon Kim&lt;/li&gt;
+  &lt;li&gt;Operationalization of Sigma Rules with Processig Pipelines by Thomas Patzke&lt;/li&gt;
+  &lt;li&gt;ROP on ARM64 - a hands-on tutorial by Saumil Shah&lt;/li&gt;
+  &lt;li&gt;Reversing Flutter with Blutter and Radare2 by Axelle Apvrille&lt;/li&gt;
+  &lt;li&gt;Scanning with the Artemis security scanner by Krzysztof Zając&lt;/li&gt;
+  &lt;li&gt;The Heist: get your hands on the goods! by Stijn Tomme&lt;/li&gt;
+  &lt;li&gt;Unleashing the power of purple teaming with OpenTIDE by Remi Seguy, Amine Besson&lt;/li&gt;
+  &lt;li&gt;XOR Cryptanalysis by Didier Stevens&lt;/li&gt;
+  &lt;li&gt;Zeek and Destroy with Python and Machine Learning Workshop by Eva Szilagyi, David Szili&lt;/li&gt;
+  &lt;li&gt;iOS Compromise Detection using open source tools by David Durvaux, Christophe Vandeplas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;capture-the-flag-ctf-competition&quot;&gt;Capture The Flag (CTF) Competition&lt;/h3&gt;
+
+&lt;p&gt;No hack.lu is complete without the legendary Capture The Flag (CTF) competition. The hack.lu CTF is known for its challenging and creative puzzles that test participants’ problem-solving and hacking skills across a range of categories, including cryptography, web security, forensics, and more. This year, we are thrilled to have the famous FluxFingers team, known for their innovative and exciting challenges, organizing the CTF once again. With new puzzles designed to push even the most experienced players to their limits, this CTF promises to be an unforgettable experience. Whether you’re competing solo or as part of a team, the hack.lu CTF is an excellent opportunity to hone your skills and have some fun. Additional smaller challenges will take place during the hack.lu conference for the ones who don’t want to invest too much time into the CTF.&lt;/p&gt;
+
+&lt;h3 id=&quot;sponsorship-opportunities&quot;&gt;Sponsorship Opportunities&lt;/h3&gt;
+
+&lt;p&gt;Hack.lu provides an opportunity for companies looking to showcase their products and services to a highly engaged audience of security professionals and enthusiasts. Sponsoring hack.lu is not just about brand visibility; it’s about becoming part of a community that values innovation, knowledge-sharing, and collaboration. Sponsors have the opportunity to engage directly with attendees through dedicated booths and active networking during the event.&lt;/p&gt;
+
+&lt;p&gt;By supporting hack.lu, sponsors help foster a cybersecurity community and contribute to the event’s unique family atmosphere of learning and exchange. Interested in becoming a sponsor? More details can be found &lt;a href=&quot;https://hack.lu/sponsoring/&quot;&gt;https://hack.lu/sponsoring/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-you-should-attend&quot;&gt;Why You Should Attend&lt;/h3&gt;
+
+&lt;p&gt;Hack.lu is more than just a conference; it’s a gathering of minds dedicated to pushing the boundaries of cybersecurity with a strong open source mindset. The sessions and workshops are tailored to provide deep insights and practical skills that you can apply in your work or research. The CTFs are a thrilling test of your abilities, and the networking opportunities are second to none. Plus, to keep your energy levels high, hack.lu offers lunch, beverages, refreshments, and pastries throughout the four days. There’s also a social event where all participants can relax, connect, and exchange ideas in a more informal setting.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re there to present, participate, or just soak in the knowledge, hack.lu 2024 offers an unparalleled experience and a great opportunity to meet new friends. Don’t miss your chance to be a part of this exciting event. Tickets are still available, so be sure to grab yours &lt;a href=&quot;https://hack.lu/info/&quot;&gt;https://hack.lu/info/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Join us at hack.lu 2024 and become part of the conversation that contributes to the future of cybersecurity!&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Hack.lu 2024: A Can&apos;t-Miss Cybersecurity Event in the Heart of Euro</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Call for papers is now open for hack.lu 2024</title><link href="/blog/hack.lu-2024-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2024" /><published>2024-05-20T11:39:55+02:00</published><updated>2024-05-20T11:39:55+02:00</updated><id>/blog/hack.lu-2024-call-for-papers</id><content type="html" xml:base="/blog/hack.lu-2024-call-for-papers/">&lt;h1 id=&quot;hacklu-2024-call-for-papers-including-cti-summit&quot;&gt;hack.lu 2024 Call for Papers (including cti-summit)&lt;/h1&gt;
 
 &lt;p&gt;The purpose of the hack.lu convention is to provide an open and free playground where people can discuss the implications of new technologies in society. hack.lu is a balanced mix convention where technical and non-technical people can meet and share all kinds of information freely. The convention will be held in the Grand-Duchy of Luxembourg in October (22-25.10.2024). The most significant new discoveries about computer network attacks and defenses, open-source security solutions, and pragmatic real-world security experiences will be presented in a four-day series of informative tutorials.&lt;/p&gt;
 
