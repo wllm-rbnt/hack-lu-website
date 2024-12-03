@@ -89,6 +89,15 @@
         </li>
       {% endif %}
 
+      {% if author.mastodon %}
+        <li>
+	    <a href="{{ author.mastodon }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-user" aria-hidden="true"></i> Mastodon 
+          </a>
+        </li>
+      {% endif %}
+
+
       {% if author.google_plus %}
         <li>
           <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">

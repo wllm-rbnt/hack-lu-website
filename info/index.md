@@ -1,8 +1,8 @@
 ---
 layout: splash
 title:  Info and Registration
-excerpt: "Practical information - Hack.lu 2024"
-modified: 2024-05-22T19:44:38.564948-04:00
+excerpt: "Practical information - Hack.lu 2025"
+modified: 2024-12-01T19:44:38.564948-04:00
 ---
 
 ## Registration 

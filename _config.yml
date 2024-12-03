@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "hack.lu 2024"
+title                    : "hack.lu 2025"
 title_separator          : "-"
 name                     : "hack.lu"
-description              : "Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 18th edition (22nd -> 25th October) of hack.lu in Luxembourg."
+description              : "Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 19th edition (21st -> 24th October) of hack.lu in Luxembourg."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,6 +78,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : hack_lu
+mastodon:
+  username               : https://infosec.exchange/@hack_lu
 facebook:
   username               :
   app_id                 :
@@ -127,6 +129,7 @@ author:
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : hack_lu
+  mastodon         : "https://infosec.exchange/@hack_lu"
   vine             :
   weibo            :
   xing             :
